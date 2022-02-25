@@ -1,0 +1,828 @@
+{
+    "cloud_partners": [
+        {
+            "partner_id": 0,
+            "data_centers": [
+                {
+                    "center_id": "00",
+                    "workload_dependent_emissions": [
+                        {
+                            "workload_type": "ML/AI",
+                            "emission_interval": [
+                                3,
+                                30
+                            ]
+                        },
+                        {
+                            "workload_type": "AR/VR",
+                            "emission_interval": [
+                                2,
+                                5
+                            ]
+                        },
+                        {
+                            "workload_type": "IoT",
+                            "emission_interval": [
+                                1,
+                                2
+                            ]
+                        },
+                        {
+                            "workload_type": "Big Data",
+                            "emission_interval": [
+                                3,
+                                10
+                            ]
+                        },
+                        {
+                            "workload_type": "networking",
+                            "emission_interval": [
+                                1,
+                                5
+                            ]
+                        },
+                        {
+                            "workload_type": "storage",
+                            "emission_interval": [
+                                1,
+                                2
+                            ]
+                        }
+                    ]
+                },
+                {
+                    "center_id": "01",
+                    "workload_dependent_emissions": [
+                        {
+                            "workload_type": "ML/AI",
+                            "emission_interval": [
+                                3,
+                                30
+                            ]
+                        },
+                        {
+                            "workload_type": "AR/VR",
+                            "emission_interval": [
+                                2,
+                                5
+                            ]
+                        },
+                        {
+                            "workload_type": "IoT",
+                            "emission_interval": [
+                                1,
+                                2
+                            ]
+                        },
+                        {
+                            "workload_type": "Big Data",
+                            "emission_interval": [
+                                3,
+                                10
+                            ]
+                        },
+                        {
+                            "workload_type": "networking",
+                            "emission_interval": [
+                                1,
+                                5
+                            ]
+                        },
+                        {
+                            "workload_type": "storage",
+                            "emission_interval": [
+                                1,
+                                2
+                            ]
+                        }
+                    ]
+                },
+                {
+                    "center_id": "02",
+                    "workload_dependent_emissions": [
+                        {
+                            "workload_type": "ML/AI",
+                            "emission_interval": [
+                                3,
+                                30
+                            ]
+                        },
+                        {
+                            "workload_type": "AR/VR",
+                            "emission_interval": [
+                                2,
+                                5
+                            ]
+                        },
+                        {
+                            "workload_type": "IoT",
+                            "emission_interval": [
+                                1,
+                                2
+                            ]
+                        },
+                        {
+                            "workload_type": "Big Data",
+                            "emission_interval": [
+                                3,
+                                10
+                            ]
+                        },
+                        {
+                            "workload_type": "networking",
+                            "emission_interval": [
+                                1,
+                                5
+                            ]
+                        },
+                        {
+                            "workload_type": "storage",
+                            "emission_interval": [
+                                1,
+                                2
+                            ]
+                        }
+                    ]
+                }
+            ]
+        },
+        {
+            "partner_id": 1,
+            "data_centers": [
+                {
+                    "center_id": "10",
+                    "workload_dependent_emissions": [
+                        {
+                            "workload_type": "ML/AI",
+                            "emission_interval": [
+                                3,
+                                30
+                            ]
+                        },
+                        {
+                            "workload_type": "AR/VR",
+                            "emission_interval": [
+                                2,
+                                5
+                            ]
+                        },
+                        {
+                            "workload_type": "IoT",
+                            "emission_interval": [
+                                1,
+                                2
+                            ]
+                        },
+                        {
+                            "workload_type": "Big Data",
+                            "emission_interval": [
+                                3,
+                                10
+                            ]
+                        },
+                        {
+                            "workload_type": "networking",
+                            "emission_interval": [
+                                1,
+                                5
+                            ]
+                        },
+                        {
+                            "workload_type": "storage",
+                            "emission_interval": [
+                                1,
+                                2
+                            ]
+                        }
+                    ]
+                },
+                {
+                    "center_id": "11",
+                    "workload_dependent_emissions": [
+                        {
+                            "workload_type": "ML/AI",
+                            "emission_interval": [
+                                3,
+                                30
+                            ]
+                        },
+                        {
+                            "workload_type": "AR/VR",
+                            "emission_interval": [
+                                2,
+                                5
+                            ]
+                        },
+                        {
+                            "workload_type": "IoT",
+                            "emission_interval": [
+                                1,
+                                2
+                            ]
+                        },
+                        {
+                            "workload_type": "Big Data",
+                            "emission_interval": [
+                                3,
+                                10
+                            ]
+                        },
+                        {
+                            "workload_type": "networking",
+                            "emission_interval": [
+                                1,
+                                5
+                            ]
+                        },
+                        {
+                            "workload_type": "storage",
+                            "emission_interval": [
+                                1,
+                                2
+                            ]
+                        }
+                    ]
+                },
+                {
+                    "center_id": "12",
+                    "workload_dependent_emissions": [
+                        {
+                            "workload_type": "ML/AI",
+                            "emission_interval": [
+                                3,
+                                30
+                            ]
+                        },
+                        {
+                            "workload_type": "AR/VR",
+                            "emission_interval": [
+                                2,
+                                5
+                            ]
+                        },
+                        {
+                            "workload_type": "IoT",
+                            "emission_interval": [
+                                1,
+                                2
+                            ]
+                        },
+                        {
+                            "workload_type": "Big Data",
+                            "emission_interval": [
+                                3,
+                                10
+                            ]
+                        },
+                        {
+                            "workload_type": "networking",
+                            "emission_interval": [
+                                1,
+                                5
+                            ]
+                        },
+                        {
+                            "workload_type": "storage",
+                            "emission_interval": [
+                                1,
+                                2
+                            ]
+                        }
+                    ]
+                }
+            ]
+        },
+        {
+            "partner_id": 2,
+            "data_centers": [
+                {
+                    "center_id": "20",
+                    "workload_dependent_emissions": [
+                        {
+                            "workload_type": "ML/AI",
+                            "emission_interval": [
+                                3,
+                                30
+                            ]
+                        },
+                        {
+                            "workload_type": "AR/VR",
+                            "emission_interval": [
+                                2,
+                                5
+                            ]
+                        },
+                        {
+                            "workload_type": "IoT",
+                            "emission_interval": [
+                                1,
+                                2
+                            ]
+                        },
+                        {
+                            "workload_type": "Big Data",
+                            "emission_interval": [
+                                3,
+                                10
+                            ]
+                        },
+                        {
+                            "workload_type": "networking",
+                            "emission_interval": [
+                                1,
+                                5
+                            ]
+                        },
+                        {
+                            "workload_type": "storage",
+                            "emission_interval": [
+                                1,
+                                2
+                            ]
+                        }
+                    ]
+                },
+                {
+                    "center_id": "21",
+                    "workload_dependent_emissions": [
+                        {
+                            "workload_type": "ML/AI",
+                            "emission_interval": [
+                                3,
+                                30
+                            ]
+                        },
+                        {
+                            "workload_type": "AR/VR",
+                            "emission_interval": [
+                                2,
+                                5
+                            ]
+                        },
+                        {
+                            "workload_type": "IoT",
+                            "emission_interval": [
+                                1,
+                                2
+                            ]
+                        },
+                        {
+                            "workload_type": "Big Data",
+                            "emission_interval": [
+                                3,
+                                10
+                            ]
+                        },
+                        {
+                            "workload_type": "networking",
+                            "emission_interval": [
+                                1,
+                                5
+                            ]
+                        },
+                        {
+                            "workload_type": "storage",
+                            "emission_interval": [
+                                1,
+                                2
+                            ]
+                        }
+                    ]
+                },
+                {
+                    "center_id": "22",
+                    "workload_dependent_emissions": [
+                        {
+                            "workload_type": "ML/AI",
+                            "emission_interval": [
+                                3,
+                                30
+                            ]
+                        },
+                        {
+                            "workload_type": "AR/VR",
+                            "emission_interval": [
+                                2,
+                                5
+                            ]
+                        },
+                        {
+                            "workload_type": "IoT",
+                            "emission_interval": [
+                                1,
+                                2
+                            ]
+                        },
+                        {
+                            "workload_type": "Big Data",
+                            "emission_interval": [
+                                3,
+                                10
+                            ]
+                        },
+                        {
+                            "workload_type": "networking",
+                            "emission_interval": [
+                                1,
+                                5
+                            ]
+                        },
+                        {
+                            "workload_type": "storage",
+                            "emission_interval": [
+                                1,
+                                2
+                            ]
+                        }
+                    ]
+                },
+                {
+                    "center_id": "23",
+                    "workload_dependent_emissions": [
+                        {
+                            "workload_type": "ML/AI",
+                            "emission_interval": [
+                                3,
+                                30
+                            ]
+                        },
+                        {
+                            "workload_type": "AR/VR",
+                            "emission_interval": [
+                                2,
+                                5
+                            ]
+                        },
+                        {
+                            "workload_type": "IoT",
+                            "emission_interval": [
+                                1,
+                                2
+                            ]
+                        },
+                        {
+                            "workload_type": "Big Data",
+                            "emission_interval": [
+                                3,
+                                10
+                            ]
+                        },
+                        {
+                            "workload_type": "networking",
+                            "emission_interval": [
+                                1,
+                                5
+                            ]
+                        },
+                        {
+                            "workload_type": "storage",
+                            "emission_interval": [
+                                1,
+                                2
+                            ]
+                        }
+                    ]
+                }
+            ]
+        },
+        {
+            "partner_id": 3,
+            "data_centers": [
+                {
+                    "center_id": "30",
+                    "workload_dependent_emissions": [
+                        {
+                            "workload_type": "ML/AI",
+                            "emission_interval": [
+                                3,
+                                30
+                            ]
+                        },
+                        {
+                            "workload_type": "AR/VR",
+                            "emission_interval": [
+                                2,
+                                5
+                            ]
+                        },
+                        {
+                            "workload_type": "IoT",
+                            "emission_interval": [
+                                1,
+                                2
+                            ]
+                        },
+                        {
+                            "workload_type": "Big Data",
+                            "emission_interval": [
+                                3,
+                                10
+                            ]
+                        },
+                        {
+                            "workload_type": "networking",
+                            "emission_interval": [
+                                1,
+                                5
+                            ]
+                        },
+                        {
+                            "workload_type": "storage",
+                            "emission_interval": [
+                                1,
+                                2
+                            ]
+                        }
+                    ]
+                },
+                {
+                    "center_id": "31",
+                    "workload_dependent_emissions": [
+                        {
+                            "workload_type": "ML/AI",
+                            "emission_interval": [
+                                3,
+                                30
+                            ]
+                        },
+                        {
+                            "workload_type": "AR/VR",
+                            "emission_interval": [
+                                2,
+                                5
+                            ]
+                        },
+                        {
+                            "workload_type": "IoT",
+                            "emission_interval": [
+                                1,
+                                2
+                            ]
+                        },
+                        {
+                            "workload_type": "Big Data",
+                            "emission_interval": [
+                                3,
+                                10
+                            ]
+                        },
+                        {
+                            "workload_type": "networking",
+                            "emission_interval": [
+                                1,
+                                5
+                            ]
+                        },
+                        {
+                            "workload_type": "storage",
+                            "emission_interval": [
+                                1,
+                                2
+                            ]
+                        }
+                    ]
+                },
+                {
+                    "center_id": "32",
+                    "workload_dependent_emissions": [
+                        {
+                            "workload_type": "ML/AI",
+                            "emission_interval": [
+                                3,
+                                30
+                            ]
+                        },
+                        {
+                            "workload_type": "AR/VR",
+                            "emission_interval": [
+                                2,
+                                5
+                            ]
+                        },
+                        {
+                            "workload_type": "IoT",
+                            "emission_interval": [
+                                1,
+                                2
+                            ]
+                        },
+                        {
+                            "workload_type": "Big Data",
+                            "emission_interval": [
+                                3,
+                                10
+                            ]
+                        },
+                        {
+                            "workload_type": "networking",
+                            "emission_interval": [
+                                1,
+                                5
+                            ]
+                        },
+                        {
+                            "workload_type": "storage",
+                            "emission_interval": [
+                                1,
+                                2
+                            ]
+                        }
+                    ]
+                }
+            ]
+        },
+        {
+            "partner_id": 4,
+            "data_centers": [
+                {
+                    "center_id": "40",
+                    "workload_dependent_emissions": [
+                        {
+                            "workload_type": "ML/AI",
+                            "emission_interval": [
+                                3,
+                                30
+                            ]
+                        },
+                        {
+                            "workload_type": "AR/VR",
+                            "emission_interval": [
+                                2,
+                                5
+                            ]
+                        },
+                        {
+                            "workload_type": "IoT",
+                            "emission_interval": [
+                                1,
+                                2
+                            ]
+                        },
+                        {
+                            "workload_type": "Big Data",
+                            "emission_interval": [
+                                3,
+                                10
+                            ]
+                        },
+                        {
+                            "workload_type": "networking",
+                            "emission_interval": [
+                                1,
+                                5
+                            ]
+                        },
+                        {
+                            "workload_type": "storage",
+                            "emission_interval": [
+                                1,
+                                2
+                            ]
+                        }
+                    ]
+                },
+                {
+                    "center_id": "41",
+                    "workload_dependent_emissions": [
+                        {
+                            "workload_type": "ML/AI",
+                            "emission_interval": [
+                                3,
+                                30
+                            ]
+                        },
+                        {
+                            "workload_type": "AR/VR",
+                            "emission_interval": [
+                                2,
+                                5
+                            ]
+                        },
+                        {
+                            "workload_type": "IoT",
+                            "emission_interval": [
+                                1,
+                                2
+                            ]
+                        },
+                        {
+                            "workload_type": "Big Data",
+                            "emission_interval": [
+                                3,
+                                10
+                            ]
+                        },
+                        {
+                            "workload_type": "networking",
+                            "emission_interval": [
+                                1,
+                                5
+                            ]
+                        },
+                        {
+                            "workload_type": "storage",
+                            "emission_interval": [
+                                1,
+                                2
+                            ]
+                        }
+                    ]
+                },
+                {
+                    "center_id": "42",
+                    "workload_dependent_emissions": [
+                        {
+                            "workload_type": "ML/AI",
+                            "emission_interval": [
+                                3,
+                                30
+                            ]
+                        },
+                        {
+                            "workload_type": "AR/VR",
+                            "emission_interval": [
+                                2,
+                                5
+                            ]
+                        },
+                        {
+                            "workload_type": "IoT",
+                            "emission_interval": [
+                                1,
+                                2
+                            ]
+                        },
+                        {
+                            "workload_type": "Big Data",
+                            "emission_interval": [
+                                3,
+                                10
+                            ]
+                        },
+                        {
+                            "workload_type": "networking",
+                            "emission_interval": [
+                                1,
+                                5
+                            ]
+                        },
+                        {
+                            "workload_type": "storage",
+                            "emission_interval": [
+                                1,
+                                2
+                            ]
+                        }
+                    ]
+                },
+                {
+                    "center_id": "43",
+                    "workload_dependent_emissions": [
+                        {
+                            "workload_type": "ML/AI",
+                            "emission_interval": [
+                                3,
+                                30
+                            ]
+                        },
+                        {
+                            "workload_type": "AR/VR",
+                            "emission_interval": [
+                                2,
+                                5
+                            ]
+                        },
+                        {
+                            "workload_type": "IoT",
+                            "emission_interval": [
+                                1,
+                                2
+                            ]
+                        },
+                        {
+                            "workload_type": "Big Data",
+                            "emission_interval": [
+                                3,
+                                10
+                            ]
+                        },
+                        {
+                            "workload_type": "networking",
+                            "emission_interval": [
+                                1,
+                                5
+                            ]
+                        },
+                        {
+                            "workload_type": "storage",
+                            "emission_interval": [
+                                1,
+                                2
+                            ]
+                        }
+                    ]
+                }
+            ]
+        }
+    ]
+}
