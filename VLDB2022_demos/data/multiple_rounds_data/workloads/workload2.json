@@ -1,0 +1,16 @@
+{
+    "workload": [
+        {   "work_id": 0,
+            "work_type": "Big Data",
+            "emission_factor": 3
+        },
+        {   "work_id": 1,
+            "work_type": "AR/VR",
+            "emission_factor": 3
+        },
+        {   "work_id": 2,
+            "work_type": "storage",
+            "emission_factor": 2
+        }
+    ]
+}
