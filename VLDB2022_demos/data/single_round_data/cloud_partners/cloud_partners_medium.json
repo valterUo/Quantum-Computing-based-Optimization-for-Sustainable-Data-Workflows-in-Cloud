@@ -8,45 +8,27 @@
                     "workload_dependent_emissions": [
                         {
                             "workload_type": "ML/AI",
-                            "emission_interval": [
-                                3,
-                                30
-                            ]
+                            "center_emission_factor": 19
                         },
                         {
                             "workload_type": "AR/VR",
-                            "emission_interval": [
-                                2,
-                                5
-                            ]
+                            "center_emission_factor": 3
                         },
                         {
                             "workload_type": "IoT",
-                            "emission_interval": [
-                                1,
-                                2
-                            ]
+                            "center_emission_factor": 23
                         },
                         {
                             "workload_type": "Big Data",
-                            "emission_interval": [
-                                3,
-                                10
-                            ]
+                            "center_emission_factor": 18
                         },
                         {
                             "workload_type": "networking",
-                            "emission_interval": [
-                                1,
-                                5
-                            ]
+                            "center_emission_factor": 26
                         },
                         {
                             "workload_type": "storage",
-                            "emission_interval": [
-                                1,
-                                2
-                            ]
+                            "center_emission_factor": 7
                         }
                     ]
                 }
@@ -60,45 +42,27 @@
                     "workload_dependent_emissions": [
                         {
                             "workload_type": "ML/AI",
-                            "emission_interval": [
-                                3,
-                                30
-                            ]
+                            "center_emission_factor": 34
                         },
                         {
                             "workload_type": "AR/VR",
-                            "emission_interval": [
-                                2,
-                                5
-                            ]
+                            "center_emission_factor": 39
                         },
                         {
                             "workload_type": "IoT",
-                            "emission_interval": [
-                                1,
-                                2
-                            ]
+                            "center_emission_factor": 21
                         },
                         {
                             "workload_type": "Big Data",
-                            "emission_interval": [
-                                3,
-                                10
-                            ]
+                            "center_emission_factor": 25
                         },
                         {
                             "workload_type": "networking",
-                            "emission_interval": [
-                                1,
-                                5
-                            ]
+                            "center_emission_factor": 3
                         },
                         {
                             "workload_type": "storage",
-                            "emission_interval": [
-                                1,
-                                2
-                            ]
+                            "center_emission_factor": 40
                         }
                     ]
                 }
@@ -112,45 +76,27 @@
                     "workload_dependent_emissions": [
                         {
                             "workload_type": "ML/AI",
-                            "emission_interval": [
-                                3,
-                                30
-                            ]
+                            "center_emission_factor": 11
                         },
                         {
                             "workload_type": "AR/VR",
-                            "emission_interval": [
-                                2,
-                                5
-                            ]
+                            "center_emission_factor": 5
                         },
                         {
                             "workload_type": "IoT",
-                            "emission_interval": [
-                                1,
-                                2
-                            ]
+                            "center_emission_factor": 25
                         },
                         {
                             "workload_type": "Big Data",
-                            "emission_interval": [
-                                3,
-                                10
-                            ]
+                            "center_emission_factor": 37
                         },
                         {
                             "workload_type": "networking",
-                            "emission_interval": [
-                                1,
-                                5
-                            ]
+                            "center_emission_factor": 11
                         },
                         {
                             "workload_type": "storage",
-                            "emission_interval": [
-                                1,
-                                2
-                            ]
+                            "center_emission_factor": 24
                         }
                     ]
                 }
@@ -164,45 +110,27 @@
                     "workload_dependent_emissions": [
                         {
                             "workload_type": "ML/AI",
-                            "emission_interval": [
-                                3,
-                                30
-                            ]
+                            "center_emission_factor": 36
                         },
                         {
                             "workload_type": "AR/VR",
-                            "emission_interval": [
-                                2,
-                                5
-                            ]
+                            "center_emission_factor": 1
                         },
                         {
                             "workload_type": "IoT",
-                            "emission_interval": [
-                                1,
-                                2
-                            ]
+                            "center_emission_factor": 32
                         },
                         {
                             "workload_type": "Big Data",
-                            "emission_interval": [
-                                3,
-                                10
-                            ]
+                            "center_emission_factor": 5
                         },
                         {
                             "workload_type": "networking",
-                            "emission_interval": [
-                                1,
-                                5
-                            ]
+                            "center_emission_factor": 12
                         },
                         {
                             "workload_type": "storage",
-                            "emission_interval": [
-                                1,
-                                2
-                            ]
+                            "center_emission_factor": 23
                         }
                     ]
                 }
@@ -216,45 +144,27 @@
                     "workload_dependent_emissions": [
                         {
                             "workload_type": "ML/AI",
-                            "emission_interval": [
-                                3,
-                                30
-                            ]
+                            "center_emission_factor": 15
                         },
                         {
                             "workload_type": "AR/VR",
-                            "emission_interval": [
-                                2,
-                                5
-                            ]
+                            "center_emission_factor": 29
                         },
                         {
                             "workload_type": "IoT",
-                            "emission_interval": [
-                                1,
-                                2
-                            ]
+                            "center_emission_factor": 37
                         },
                         {
                             "workload_type": "Big Data",
-                            "emission_interval": [
-                                3,
-                                10
-                            ]
+                            "center_emission_factor": 19
                         },
                         {
                             "workload_type": "networking",
-                            "emission_interval": [
-                                1,
-                                5
-                            ]
+                            "center_emission_factor": 2
                         },
                         {
                             "workload_type": "storage",
-                            "emission_interval": [
-                                1,
-                                2
-                            ]
+                            "center_emission_factor": 4
                         }
                     ]
                 }
