@@ -1,0 +1,68 @@
+{
+    "workload": [
+        {   "work_id": 0,
+            "work_type": "Big Data",
+            "emission_factor": 2
+        },
+        {   "work_id": 1,
+            "work_type": "ML/AI",
+            "emission_factor": 3
+        },
+        {   "work_id": 2,
+            "work_type": "storage",
+            "emission_factor": 4
+        },
+        {   "work_id": 3,
+            "work_type": "ML/AI",
+            "emission_factor": 2
+        },
+        {   "work_id": 4,
+            "work_type": "networking",
+            "emission_factor": 2
+        },
+        {   "work_id": 5,
+            "work_type": "storage",
+            "emission_factor": 3
+        },
+        {   "work_id": 6,
+            "work_type": "storage",
+            "emission_factor": 2
+        },
+        {   "work_id": 7,
+            "work_type": "IoT",
+            "emission_factor": 1
+        },
+        {   "work_id": 8,
+            "work_type": "Big Data",
+            "emission_factor": 2
+        },
+        {   "work_id": 9,
+            "work_type": "ML/AI",
+            "emission_factor": 3
+        },
+        {   "work_id": 10,
+            "work_type": "storage",
+            "emission_factor": 4
+        },
+        {   "work_id": 11,
+            "work_type": "ML/AI",
+            "emission_factor": 2
+        },
+        {   "work_id": 12,
+            "work_type": "networking",
+            "emission_factor": 2
+        },
+        {   "work_id": 13,
+            "work_type": "storage",
+            "emission_factor": 3
+        },
+        {   "work_id": 14,
+            "work_type": "storage",
+            "emission_factor": 2
+        },
+        {   "work_id": 15,
+            "work_type": "IoT",
+            "emission_factor": 1
+        }
+    ]
+}
